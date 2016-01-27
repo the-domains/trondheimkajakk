@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Trondheimkajakk]]></title>
         <description><![CDATA[Trondheimkajakk]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/trondheimkajakk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jan 2016 07:59:28 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 27 Jan 2016 08:49:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/trondheimkajakk/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Kajakkturer]]></title>
+            <description><![CDATA[<article><h1>Kajakkturer</h1><p>Dagsturen og kveldsturer anbefales for alle som ønsker å oppdage Trondheim store skjønnhet, Nidelven. Det er vanskelig å sette ord på hvor fantastisk landskapet man kan nyte mens man padler nedover elva. Man vil kunne oppleve høstens farger langs Nidelven med en spektakulær utsikt gjemt for vanlige turgåere.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3249f045d5cae8da108949d3e7f451683c96e620.jpg"></article>]]></description>
+            <link>http://trondheimkajakk.no/kajakkturer.html</link>
+            <guid isPermaLink="false">4e1d927b-4ef6-49bc-b3d6-12480a6159b0</guid>
+            <pubDate>Wed, 27 Jan 2016 08:48:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Kayak tour]]></title>
-            <description><![CDATA[<article><h1>Kayak tour</h1><p>Opplev Trondheim fra et unikt perspektiv!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f3fc57513b64aa9f4e3322dcb148b4d6bcd65b80.jpg"></article>]]></description>
-            <link>undefined0ac8ae84-f2f0-4317-a299-5a024d063c10/index.html</link>
+            <description><![CDATA[<article><h1>Kayak tour</h1><p>Opplev Trondheim fra et unikt perspektiv!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c71d54242135b8fedbd1defe99d56ca76745ae85.jpg"></article>]]></description>
+            <link>https://thegrid.ai/trondheimkajakk/0ac8ae84-f2f0-4317-a299-5a024d063c10/index.html</link>
             <guid isPermaLink="false">0ac8ae84-f2f0-4317-a299-5a024d063c10</guid>
             <pubDate>Wed, 27 Jan 2016 07:57:30 GMT</pubDate>
         </item>

@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Padletur langs Nidelven på nattestid.
-datePublished: '2016-01-28T20:48:23.589Z'
-dateModified: '2016-01-28T18:40:30.900Z'
+datePublished: '2016-01-28T21:11:49.958Z'
+dateModified: '2016-01-28T21:11:36.305Z'
 title: LED-kajakktur
 author: []
 sourcePath: _posts/2016-01-28-led-kajakktur.md
@@ -42,10 +42,10 @@ Priser: - 450,- per person
 Alternativt:
 
 * Leie av tørrdrakt: 100,- per person
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7742b05c-600e-4a55-8201-7ba1ba40fff0.jpg)
 
 Møtte sted: Trondheim Spektrum 
 
 [https://www.google.com/maps/d/u/0/viewer?mid=zK7etsgMRZ7c.kcRVE0KdUCk4&hl=en][0]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7742b05c-600e-4a55-8201-7ba1ba40fff0.jpg)
 
 [0]: https://www.google.com/maps/d/u/0/viewer?mid=zK7etsgMRZ7c.kcRVE0KdUCk4&hl=en

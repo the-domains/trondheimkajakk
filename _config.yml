@@ -1,6 +1,6 @@
 name: Trondheimkajakk
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 1
 typography_spectrum: 0.56028
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#c41939'
     - '#7497bf'
     - '#feb523'
-  brandStrength: 0.375
+  brandStrength: 0.3125
   lightness: 0.4375
   saturation: 0.75
   rhythmicContrast: 0.5

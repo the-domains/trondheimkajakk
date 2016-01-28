@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-28T20:48:31.202Z'
-dateModified: '2016-01-28T18:56:20.524Z'
+datePublished: '2016-01-28T21:14:47.184Z'
+dateModified: '2016-01-28T21:14:40.742Z'
 title: Trondheimkajakk info
 author: []
 sourcePath: _posts/2016-01-28-trondheimkajakk-info.md
@@ -22,6 +22,8 @@ url: trondheimkajakk-info/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/48eabaf8-f343-42b4-b38b-01e412e2adce.jpg)
+
 Trondheim kajakk har gleden av å tilby deg en opplevelse utenom
 det vanlige, nemlig kajakkpadling langs Nidelven. Du vil få
 muligheten til å oppleve Trondheim fra et unikt perspektiv. Vi

@@ -4,8 +4,15 @@
         <description><![CDATA[Trondheimkajakk]]></description>
         <link>https://thegrid.ai/trondheimkajakk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jan 2016 14:47:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jan 2016 14:47:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/trondheimkajakk/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[LED-kajakktur]]></title>
+            <description><![CDATA[<article><h1>LED-kajakktur</h1><p>Padletid: ca. 1-2 timer</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/049697e60dad5ebab483e2c475e1bc7668d20f23.jpg"></article>]]></description>
+            <link>https://thegrid.ai/trondheimkajakk/led-kajakktur/index.html</link>
+            <guid isPermaLink="false">5766d83d-17b7-4ba0-8041-77fb5358c017</guid>
+            <pubDate>Thu, 28 Jan 2016 14:47:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Romantisk tur]]></title>
             <description><![CDATA[<article><h1>Romantisk tur</h1><p>Padletid: ca. 2 timer</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a6bc6ff4e5997da87ec0e75d523f7e413a7fc09b.jpg"></article>]]></description>
@@ -33,7 +40,7 @@ barnesete.
         </item>
         <item>
             <title><![CDATA[Bilder]]></title>
-            <description><![CDATA[<article><h1>Bilder</h1><p>Bilder fra kajakkturer og aktiviteter</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f630ef6baef99d2ae5720f9cd3ee205303a9dfeb.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Bilder</h1><p>Bilder fra kajakkturer og aktiviteter</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a3ac0e401de219839d1d1c33fd5f6e7d/croprotate.jpg?cropheight=2593&cropwidth=3888&degrees=0&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Ff630ef6baef99d2ae5720f9cd3ee205303a9dfeb.jpg&x=0&y=0"></article>]]></description>
             <link>https://thegrid.ai/trondheimkajakk/bilder/index.html</link>
             <guid isPermaLink="false">58ebcee0-94d5-4edf-899f-49562f2bb1ae</guid>
             <pubDate>Thu, 28 Jan 2016 14:45:45 GMT</pubDate>

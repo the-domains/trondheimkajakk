@@ -6,40 +6,45 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-28T14:47:19.518Z'
-dateModified: '2016-01-28T12:51:33.955Z'
+datePublished: '2016-01-28T20:48:31.183Z'
+dateModified: '2016-01-28T18:56:20.524Z'
 title: Trondheimkajakk info
 author: []
+sourcePath: _posts/2016-01-28-trondheimkajakk-info.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-28-trondheimkajakk-info.md
-published: true
 url: trondheimkajakk-info/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e63741a-0d8d-4356-91a1-0f57ee42d00f.jpg)
+Trondheim kajakk har gleden av å tilby deg en opplevelse utenom
+det vanlige, nemlig kajakkpadling langs Nidelven. Du vil få
+muligheten til å oppleve Trondheim fra et unikt perspektiv. Vi
+holder arrangementer for familier, vennegjenger og bedrifter med mer.
+Du kan velge mellom dagsturer og kveldsturer.
 
-**Trondheimkajakk** welcomes you to take an amazing trip by kayak down
-the Nidelven river in Trondheim. You will experience Trondheim from a
-unique perspective. We arrange tours for families, friends, companies
-and more. You may chose between day trips and night trips.
+**Bedrifter og arrangementer**
 
-Are you looking for a refreshing break from the daily routine, or
-are you looking to arrange a **teambuilding activity** for your firm? We
-will help you customize your kayak trip according to your needs.
+Er du på utkikk etter et energigivende avbrekk fra hverdagen,
+eller ønsker du å arrangere en teambuilding aktivitet for din
+bedrift? Vi er behjelpelig med å skreddersy din kajakktur.
 
-We guarantee you an exciting and refreshing experience. 
+Vi garanterer en spennende og energigivende opplevelse. Turprisen
+inkluderer kajakk, padleårer og alt nødvendig sikkerhetsutstyr og
+kajakk transport.
 
-The rental price includes kayak, paddles and all necessary safety
-equipment.
+**Åpningstider:**
 
-**Our opening times are:**
+Hverdag og helg 08:00-24:00\. Ta kontakt for å bestille time
+mellom 8:00 og 18:00\.
 
-Weekdays and weekend 08:00am - to 00:00am
+**For booking ta kontakt på:**
 
-**Contact us to book your time**
+Telefon: +47 483 38 318
+
+E-mail: info@trondheimkajakk.no

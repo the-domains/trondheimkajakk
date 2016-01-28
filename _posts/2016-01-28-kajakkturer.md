@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Dagsturen og kveldsturer anbefales for alle som ønsker å oppdage Trondheim store skjønnhet, Nidelven. Det er vanskelig å sette ord på hvor fantastisk landskapet man kan nyte mens man padler nedover elva. Man vil kunne oppleve høstens farger langs Nidelven med en spektakulær utsikt gjemt for vanlige turgåere. Dette er en flott mulighet for deg som ønsker et energigivende avbrekk fra hverdagen.'
-datePublished: '2016-01-28T20:48:15.218Z'
-dateModified: '2016-01-28T20:48:10.877Z'
+datePublished: '2016-01-28T22:02:26.257Z'
+dateModified: '2016-01-28T22:02:21.774Z'
 title: Kajakkturer
 author: []
 sourcePath: _posts/2016-01-28-kajakkturer.md
@@ -22,7 +22,7 @@ url: kajakkturer/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f21dd07-1069-4146-aaa8-fab72a2101e2.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/77a1b5d8-7b67-4ecd-ae8f-a771ff573dd3.jpg)
 
 Dagsturen og kveldsturer anbefales for alle som ønsker å oppdage Trondheim store skjønnhet, Nidelven. Det er vanskelig å sette ord på hvor fantastisk landskapet man kan nyte mens man padler nedover elva. Man vil kunne oppleve høstens farger langs Nidelven med en spektakulær utsikt gjemt for vanlige turgåere. Dette er en flott mulighet for deg som ønsker et energigivende avbrekk fra hverdagen.
 

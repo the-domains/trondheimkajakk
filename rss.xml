@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Trondheimkajakk]]></title>
+        <description><![CDATA[Trondheimkajakk]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 28 Jan 2016 14:46:29 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[FAQ]]></title>
+            <description><![CDATA[<article><h1>FAQ</h1><p>Hvor mange personer kreves for å leie kajakk?</p></article>]]></description>
+            <link>undefinedfaq/index.html</link>
+            <guid isPermaLink="false">55711c9c-5427-4548-97ba-547ae69f49e6</guid>
+            <pubDate>Thu, 28 Jan 2016 14:45:45 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

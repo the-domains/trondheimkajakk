@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: Padletur langs Nidelven på nattestid.
-datePublished: '2016-01-28T21:11:50.076Z'
-dateModified: '2016-01-28T21:11:36.305Z'
+datePublished: '2016-01-29T10:16:40.619Z'
+dateModified: '2016-01-29T10:16:35.024Z'
 title: LED-kajakktur
 author: []
 sourcePath: _posts/2016-01-28-led-kajakktur.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: led-kajakktur/index.html
-_type: Article
+_type: WebPage
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/17567e67-47b2-4c1b-ae2e-7d7c84926e34.JPG)

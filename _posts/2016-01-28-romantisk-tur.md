@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-29T10:17:29.333Z'
+datePublished: '2016-01-29T10:17:29.340Z'
 dateModified: '2016-01-29T10:17:20.961Z'
 title: Romantisk tur
 author: []

@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-29T10:35:06.464Z'
-dateModified: '2016-01-29T10:35:04.711Z'
+datePublished: '2016-01-29T11:05:32.049Z'
+dateModified: '2016-01-29T10:53:01.676Z'
 title: Trondheimkajakk info
 author: []
 sourcePath: _posts/2016-01-28-trondheimkajakk-info.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: trondheimkajakk-info/index.html
-_type: Article
+_type: WebPage
 
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/055808068bf9a6ea3fe8a501d69681d7555c4c77.jpg)

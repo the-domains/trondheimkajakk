@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Dagsturen og kveldsturer anbefales for alle som ønsker å oppdage Trondheim store skjønnhet, Nidelven. Det er vanskelig å sette ord på hvor fantastisk landskapet man kan nyte mens man padler nedover elva. Man vil kunne oppleve høstens farger langs Nidelven med en spektakulær utsikt gjemt for vanlige turgåere. Dette er en flott mulighet for deg som ønsker et energigivende avbrekk fra hverdagen.'
-datePublished: '2016-01-29T11:11:20.381Z'
-dateModified: '2016-01-29T11:11:12.453Z'
+datePublished: '2016-01-29T17:34:01.206Z'
+dateModified: '2016-01-29T17:33:48.845Z'
 title: Kajakkturer
 author: []
 sourcePath: _posts/2016-01-28-kajakkturer.md
@@ -24,7 +24,7 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/77a1b5d8-7b67-4ecd-ae8f-a771ff573dd3.jpg)
 
-Dagsturen og kveldsturer anbefales for alle som ønsker å oppdage Trondheim store skjønnhet, Nidelven. Det er vanskelig å sette ord på hvor fantastisk landskapet man kan nyte mens man padler nedover elva. Man vil kunne oppleve høstens farger langs Nidelven med en spektakulær utsikt gjemt for vanlige turgåere. Dette er en flott mulighet for deg som ønsker et energigivende avbrekk fra hverdagen.
+Dagsturen og kveldsturer anbefales for alle som ønsker å oppdage Trondheim store skjønnhet, Nidelven. Det er vanskelig å sette ord på hvor fantastisk landskapet man kan nyte mens man padler nedover elva. Man vil kunne oppleve høstens farger langs Nidelven med en spektakulær utsikt gjemt for vanlige turgåere. Dette er en flott mulighet for deg som ønsker et energigivende avbrekk fra hverdagen. 
 
 **Padletid**: ca. 2 timer
 
@@ -40,7 +40,6 @@ og utstyr
 **Priser:  **
 
 * 1-4 personer - 400,- per person 
-
 * 5+ personer - 350,- per person
 
 **Alternativt:**

@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: Padletur langs Nidelven på nattestid.
-datePublished: '2016-01-29T10:29:13.941Z'
+datePublished: '2016-01-29T10:29:13.956Z'
 dateModified: '2016-01-29T10:22:22.300Z'
 title: LED-kajakktur
 author: []

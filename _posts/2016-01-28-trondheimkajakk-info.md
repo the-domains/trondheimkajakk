@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-29T11:12:41.848Z'
+datePublished: '2016-01-29T11:12:41.895Z'
 dateModified: '2016-01-29T11:12:21.609Z'
 title: Trondheimkajakk info
 author: []

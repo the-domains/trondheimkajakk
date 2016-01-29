@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-29T10:53:34.107Z'
-dateModified: '2016-01-29T10:51:43.988Z'
+datePublished: '2016-01-29T11:09:39.475Z'
+dateModified: '2016-01-29T11:09:27.434Z'
 title: Romantisk tur
 author: []
 sourcePath: _posts/2016-01-28-romantisk-tur.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: romantisk-tur/index.html
-_type: WebPage
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fcd4468a-fd75-4e9a-b0de-c61873ac5881.jpg)

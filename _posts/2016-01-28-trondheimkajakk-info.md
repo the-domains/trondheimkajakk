@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-28T21:48:04.321Z'
-dateModified: '2016-01-28T21:47:57.262Z'
+datePublished: '2016-01-29T10:35:06.306Z'
+dateModified: '2016-01-29T10:35:04.711Z'
 title: Trondheimkajakk info
 author: []
 sourcePath: _posts/2016-01-28-trondheimkajakk-info.md

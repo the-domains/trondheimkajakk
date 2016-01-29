@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: 'Dagsturen og kveldsturer anbefales for alle som ønsker å oppdage Trondheim store skjønnhet, Nidelven. Det er vanskelig å sette ord på hvor fantastisk landskapet man kan nyte mens man padler nedover elva. Man vil kunne oppleve høstens farger langs Nidelven med en spektakulær utsikt gjemt for vanlige turgåere. Dette er en flott mulighet for deg som ønsker et energigivende avbrekk fra hverdagen.'
-datePublished: '2016-01-29T10:22:09.674Z'
-dateModified: '2016-01-29T10:21:44.716Z'
+datePublished: '2016-01-29T10:51:32.936Z'
+dateModified: '2016-01-29T10:51:00.694Z'
 title: Kajakkturer
 author: []
 sourcePath: _posts/2016-01-28-kajakkturer.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: kajakkturer/index.html
-_type: Article
+_type: WebPage
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/77a1b5d8-7b67-4ecd-ae8f-a771ff573dd3.jpg)

@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-30T21:47:02.956Z'
-dateModified: '2016-01-30T21:46:59.821Z'
+datePublished: '2016-01-30T21:48:46.924Z'
+dateModified: '2016-01-30T21:48:39.546Z'
 title: Trondheimkajakk info
 author: []
 sourcePath: _posts/2016-01-28-trondheimkajakk-info.md
@@ -50,3 +50,4 @@ mellom 8:00 og 18:00\.
 Telefon: +47 483 38 318
 
 E-mail: info@trondheimkajakk.no
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/624d6e06-2f1b-4396-82bc-61c538ffa4ea.png)

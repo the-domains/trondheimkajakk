@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-31T18:39:45.555Z'
-dateModified: '2016-01-31T18:39:41.022Z'
+datePublished: '2016-01-31T18:48:33.397Z'
+dateModified: '2016-01-31T18:48:30.153Z'
 title: ''
 author: []
 sourcePath: _posts/2016-01-28-trondheimkajakk-info.md
@@ -28,21 +28,7 @@ _type: Article
 det vanlige, nemlig kajakkpadling langs Nidelven. Vi
 holder arrangementer for familier, vennegjenger og bedrifter med mer. 
 
-**Bedrifter og arrangementer**
-
-Er du på utkikk etter et energigivende avbrekk fra hverdagen,
-eller ønsker du å arrangere en teambuilding aktivitet for din
-bedrift? Vi er behjelpelig med å skreddersy din kajakktur.
-
-Vi garanterer en spennende og energigivende opplevelse. Turprisen
-inkluderer kajakk, padleårer og alt nødvendig sikkerhetsutstyr og
-kajakk transport.
-
-**Åpningstider:**
-
-Hverdag og helg 08:00-24:00\. Ta kontakt for å bestille time
+**Åpningstider: **Hverdag og helg 08:00-24:00\. Ta kontakt for å bestille time
 mellom 8:00 og 18:00\.
 
-**For booking ta kontakt på:**
-
-Telefon: +47 483 38 318  E-mail: info@trondheimkajakk.no
+**For booking ta kontakt på: **Telefon: +47 483 38 318;  E-mail: info@trondheimkajakk.no

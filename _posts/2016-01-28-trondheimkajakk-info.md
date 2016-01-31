@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-30T21:48:46.994Z'
-dateModified: '2016-01-30T21:48:39.546Z'
-title: Trondheimkajakk info
+datePublished: '2016-01-31T16:42:49.735Z'
+dateModified: '2016-01-31T16:42:44.711Z'
+title: ''
 author: []
 sourcePath: _posts/2016-01-28-trondheimkajakk-info.md
 published: true
@@ -22,7 +22,7 @@ url: trondheimkajakk-info/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d714b6e9-e083-4f39-91dc-b91fb27885c5.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/12b924d6e9f4debf911023fbb23d7b9a5c4d5806.png)
 
 Trondheim kajakk har gleden av å tilby deg en opplevelse utenom
 det vanlige, nemlig kajakkpadling langs Nidelven. Du vil få
@@ -50,4 +50,3 @@ mellom 8:00 og 18:00\.
 Telefon: +47 483 38 318
 
 E-mail: info@trondheimkajakk.no
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/624d6e06-2f1b-4396-82bc-61c538ffa4ea.png)

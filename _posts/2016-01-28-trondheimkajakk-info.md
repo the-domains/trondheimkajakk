@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-31T16:45:20.314Z'
-dateModified: '2016-01-31T16:45:16.914Z'
+datePublished: '2016-01-31T17:13:49.053Z'
+dateModified: '2016-01-31T17:13:44.227Z'
 title: ''
 author: []
 sourcePath: _posts/2016-01-28-trondheimkajakk-info.md

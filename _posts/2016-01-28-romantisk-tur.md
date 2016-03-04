@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-04T13:27:38.893Z'
-dateModified: '2016-03-04T13:27:28.205Z'
+datePublished: '2016-03-04T13:30:29.857Z'
+dateModified: '2016-03-04T13:27:48.414Z'
 title: Romantisk tur
 author: []
 sourcePath: _posts/2016-01-28-romantisk-tur.md

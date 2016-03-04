@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Padletur langs Nidelven på nattestid.
-datePublished: '2016-01-29T11:28:32.615Z'
-dateModified: '2016-01-29T11:28:22.950Z'
+datePublished: '2016-03-04T13:30:24.011Z'
+dateModified: '2016-03-04T13:27:15.937Z'
 title: LED-kajakktur
 author: []
 sourcePath: _posts/2016-01-28-led-kajakktur.md
@@ -22,7 +22,7 @@ url: led-kajakktur/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7742b05c-600e-4a55-8201-7ba1ba40fff0.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f32fe1a97279ff92665672f1e96c664391fe4e00.jpg)
 
 Dette er en unik og spektakulær opplevelse. Padler man langs Nidelven på nattestid vil man oppleve mye spenning og begeistring. Du vil garrantert bli imponert av den vakre Nidelva som speiler lyset fra kveldslivet i Trondheim. Denne tjenesten anbefales for alle, fordi du vil oppleve noe du ikke trodde eksisterte i din egen by.
 

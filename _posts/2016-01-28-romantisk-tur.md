@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-29T11:09:39.558Z'
-dateModified: '2016-01-29T11:09:27.434Z'
+datePublished: '2016-03-04T13:27:38.893Z'
+dateModified: '2016-03-04T13:27:28.205Z'
 title: Romantisk tur
 author: []
 sourcePath: _posts/2016-01-28-romantisk-tur.md
@@ -22,7 +22,7 @@ url: romantisk-tur/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fcd4468a-fd75-4e9a-b0de-c61873ac5881.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3d362b207cc4f916a425be7e2c7447efc52f1c82.jpg)
 
 Overrask noen du er glad i med en kajakktur for to, og avslutt turen med middag på restaurant. Turen padles alene uten andre grupper tilstede.
 
